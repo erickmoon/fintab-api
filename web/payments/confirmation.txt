@@ -1,0 +1,14 @@
+{
+            "TransactionType": "Pay Bill",
+            "TransID": "RAL6VFPPHI",
+            "TransTime": "20230121174629",
+            "TransAmount": "1.00",
+            "BusinessShortCode": "539100",
+            "BillRefNumber": "deposit1",
+            "InvoiceNumber": "",
+            "OrgAccountBalance": "12.00",
+            "ThirdPartyTransID": "",
+            "MSISDN": "2547 ***** 886",
+            "FirstName": "erick"
+        }
+        

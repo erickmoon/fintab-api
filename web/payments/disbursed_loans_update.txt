@@ -1,0 +1,1 @@
+Status: active, result code: 0, result description: The balance is insufficient for the transaction., transaction id: RAM1WE51CH, conversation id: AG_20230122_20105ed763ebda2d50da, originator conversation id: 32503-152493247-1
